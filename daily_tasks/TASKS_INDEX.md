@@ -14,7 +14,7 @@
 |------|--------|------|----------|------|
 | Day 1 | [day_01_learning_task.md](day_01_learning_task.md) | 🟢 已完成 | 2026.03.16 | Python基础 |
 | Day 2 | day_02_learning_task.md | 🟢 已完成 | 2026.03.17 | 条件与循环 |
-| Day 3 | day_03_learning_task.md | ⏳ 待开始 | | 函数基础 |
+| Day 3 | day_03_learning_task.md | 🟢 已完成 | 2026.03.18 | 函数进阶 |
 | Day 4 | day_04_learning_task.md | ⏳ 待开始 | | 数据结构 |
 | Day 5 | day_05_learning_task.md | ⏳ 待开始 | | 综合练习 |
 | Day 6 | day_06_learning_task.md | ⏳ 待开始 | | C++入门 |
@@ -137,4 +137,4 @@ daily_tasks/
 > **坚持记录，保持动力！** 这个索引不仅是进度跟踪工具，更是你学习旅程的地图。每完成一个任务，就离机器人软件工程师的目标更近一步。
 
 **最后更新**：2026-03-17
-**下次更新**：完成第2天学习后
+**下次更新**：完成第3天学习后
